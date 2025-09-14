@@ -13,7 +13,7 @@ Short Description: Emaartech Building is a modern web project where users can ex
 ## Technologies Used
 - HTML5
 - CSS3 / SCSS
-- Bootstrap 5
+- Bootstrap 
 - Bootstrap Icons
 
 
